@@ -530,7 +530,7 @@ li {
 	
 }
 
-#company .wrapper .flex tr .head::after {
+#company .wrapper .flex tr .head::before {
 	content: "";
 	display: inline-block;
 	width: 16px;
