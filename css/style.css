@@ -219,7 +219,7 @@ li {
 }
 
 #concept .inner .wrapper .highlight {
-	line-height: 70px;
+	
 }
 
 #concept .inner .wrapper .topText {
@@ -387,14 +387,20 @@ li {
 	font-size: 64px;
 }
 
+#flow .inner .wrapper .items .item td {
+	display: flex;
+		flex-wrap: wrap;
+}
+
 #flow .inner .wrapper .items .item .title {
 	font-size: 24px;
-	width: 25%;
+	width: 35%;
 	margin-right: 50px;
 	font-weight: normal;
 }
 
 #flow .inner .wrapper .items .item .text {
+	
 	width: 35%;
 	font-weight: normal;
 	text-align: left;
@@ -524,7 +530,7 @@ li {
 	
 }
 
-#company .wrapper .flex tr .body::before {
+#company .wrapper .flex tr .head::after {
 	content: "";
 	display: inline-block;
 	width: 16px;
@@ -532,6 +538,7 @@ li {
 	border-radius: 50%;
 	background-color: #8ED982;
 	margin-right: 20px;
+	right: 0;
 }
 
 #company .wrapper .flex tr th,
