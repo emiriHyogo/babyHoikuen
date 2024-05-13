@@ -219,7 +219,8 @@ li {
 }
 
 #concept .inner .wrapper .highlight {
-	
+		width: 200px;
+		height: auto;
 }
 
 #concept .inner .wrapper .topText {
