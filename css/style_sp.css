@@ -222,6 +222,12 @@
 		width: 35%;
 	}
 
+	
+	#flow .inner .wrapper .items .item td {
+		display: flex;
+		flex-wrap: wrap;
+	}
+
 	/* flow */
 
 	/* news */
