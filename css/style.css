@@ -375,6 +375,11 @@ li {
 	padding-right: 50px;
 }
 
+#flow .inner .wrapper .items .item {
+	display: flex;
+	justify-content: flex-start;
+}
+
 #flow .inner .wrapper .items .item .step {
 	background-color: #8ED982;
 	color: #F2F2F2;
