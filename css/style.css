@@ -392,10 +392,6 @@ li {
 	font-size: 64px;
 }
 
-#flow .inner .wrapper .items .item td {
-	display: flex;
-		flex-wrap: wrap;
-}
 
 #flow .inner .wrapper .items .item .title {
 	font-size: 24px;
