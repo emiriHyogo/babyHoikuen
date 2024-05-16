@@ -114,6 +114,11 @@
 		line-height: 30px;
 	}
 
+	#concept .inner .wrapper .highlight {
+		width: 200px;
+		height: auto;
+	}
+
 	#concept .inner .wrapper .topText {
 		margin-bottom: 20px;
 	}
